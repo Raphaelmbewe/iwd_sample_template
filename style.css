@@ -1,0 +1,56 @@
+body{
+    padding-top:3rem;
+    padding-bottom:3rem;
+    background-image: url('images/cross13.jpg');
+    background-repeat: repeat;
+}
+
+
+.jumbotron-detail{
+    background:url('images/cross15.svg') no-repeat fixed;
+    background-size: cover;
+    background-color:green ;
+}
+
+.jumbotron{
+    height:40vh;
+}
+.nav-color{
+    background-color: black;
+}
+
+.jumbotron-order{
+    background:url('images/cross17.svg') no-repeat fixed;
+    background-size: cover;
+    background-color:black;
+}
+
+.carousel{
+    margin-bottom: 4rem;
+}
+
+.carousel-caption{
+    bottom: 3rem;
+    z-index: 10;
+}
+.carousel-item{
+    height: 32rem;
+    max-width:100vw;
+    background-size:cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.welcome-carousel-image1{
+    box-shadow: inset 0 0 0 100vw rgba(0,0,0, 0.3);
+    background-image: url('images/cross19.svg');
+}
+
+.welcome-carousel-image2{
+    box-shadow: inset 0 0 0 100vw rgba(0,0,0, 0.3);
+    background-image: url('images/cross21.svg');
+}
+
+.welcome-carousel-image3{
+    box-shadow: inset 0 0 0 100vw rgba(0,0,0, 0.3);
+    background-image: url('images/cross20.svg');
+}
