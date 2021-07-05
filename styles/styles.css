@@ -149,3 +149,21 @@ div.icons a i:hover{
     position:absolute;
 
 }
+
+div.contact-icons a i{
+    display: flex;
+    flex-direction: column;
+    margin-top: 3rem;
+   
+}
+
+div.contact-icons-color a i{
+    color: #6562ce !important;
+    font-size: 25px;
+    margin: 2.5rem;
+   
+}
+
+a:link{
+    text-decoration: none !important;
+}
