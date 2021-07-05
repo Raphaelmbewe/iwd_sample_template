@@ -113,3 +113,13 @@ div.icons a i:hover{
 .author{
     color: #f5cf66 !important;
 }
+
+.button-color{
+    background:#6562ce;
+    color: #FFFFFF;
+}
+
+.home-p{
+    margin-bottom: 2.75rem !important;
+    margin-top: 2.75rem !important;
+}
